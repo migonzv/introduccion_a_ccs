@@ -1,0 +1,51 @@
+/*Selector Universal*/
+* {
+  color:yellow;
+}
+/*Selectores de tipo*/
+div {
+  color: orange;
+}
+/*Slectores de clases*/
+.alert-text{
+  color: red;
+}
+/*Selectores de los ID's*/
+#title{
+  background-color: red;
+}
+/*Selectores de agrupacion*/
+.read, unread {
+  color: white;
+  background-color: black;
+}
+.read{
+  /*algunas declaraciones unica*/
+}
+.unread{
+  /*algunas declaraciones unica*/
+}
+/*Encadenamiento de selectores*/
+.Subsection.header{
+  color: green;
+}
+.subsection#preview{
+  color: violet;
+}
+/*Combinador de descendientes
+El A, no se pinta, porque no tiene a nadie anidado*/
+.ancestor .contents{
+  color: blue;
+}
+.color1{
+  /*Ejemplo Hexagesimal*/
+  color: #1100ff;
+}
+.color2{
+  /*ejemplo rgb*/
+  color:rgb(100,0,127);
+}
+.color3{
+  /*Ejemplo hsl*/
+  color: hsl(16,82%,56%);
+}
