@@ -1,0 +1,70 @@
+/*Selector Universal*/
+
+* {
+  color: yellow;
+}
+
+/* Selectores de Tipo*/
+
+div {
+  color: orange;
+}
+
+/* Selectores de Clase*/
+
+.alert-text {
+  color: red;
+}
+
+/* Selectores de Ids*/
+
+#title {
+  background-color: red;
+}
+
+/*Selectores de Agrupacion*/
+
+.read, .unread {
+  color: white;
+  background-color: black;
+}
+
+.read {
+  /*algunas declaraciones unicas*/
+}
+
+.unread {
+  /*algunas declaraciones unicas*/
+}
+
+/*Encadenamiento de Selectores*/
+
+.subsection.header {
+  color: green;
+}
+
+.subsection#preview {
+  color: violet;
+}
+
+/*Combinador de Descendientes*/
+
+.ancestor .contents {
+  color: blue;
+}
+
+/*color y clor de fondo*/
+.color1 {
+  /*ejemplo exadecimal*/
+  color: #1100ff;
+}
+
+.color2 {
+  /*ejemplo rgb*/
+  color: rgb(100, 0, 127);
+}
+
+.color3 {
+  /*ejemplo hls*/
+  color: hsl(15, 82%, 56%);
+}
