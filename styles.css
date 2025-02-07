@@ -68,3 +68,12 @@ div {
   /*ejemplo hls*/
   color: hsl(15, 82%, 56%);
 }
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+h1 {
+  color:red;
+}
