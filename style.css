@@ -49,3 +49,16 @@ El A, no se pinta, porque no tiene a nadie anidado*/
   /*Ejemplo hsl*/
   color: hsl(16,82%,56%);
 }
+img.mon{
+  height: auto;
+  width: 500px;
+}
+img.pabe{
+  height: 100px;
+  width: 500px;
+}
+h1{
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+}
