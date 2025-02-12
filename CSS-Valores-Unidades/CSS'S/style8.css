@@ -1,0 +1,12 @@
+.box {
+  height: 100px;
+  width: 400px;
+  background-image: url(https://mdn.github.io/shared-assets/images/examples/big-star.png);
+  background-repeat: no-repeat;
+  background-position: right 40px;
+  /*Pueden ser en px o en (Top-center-bottom)
+  si pongo: 10px-90px la estrella va a estar casi fuera y un poquito hacia abajo*/
+  margin: 20px auto;
+  border-radius: 0.5em;
+  border: 5px solid rebeccapurple;
+}

@@ -4,8 +4,8 @@ html {
 
 .ems li {
   font-size: 1.3em;
-}
+}/*Tamano de elemento fuente del elemento padre*/
 
 .rems li {
   font-size: 1.3rem;
-}
+}/*Tamano del elemento fuente del elemento raiz*/
