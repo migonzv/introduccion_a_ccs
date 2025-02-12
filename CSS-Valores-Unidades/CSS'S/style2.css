@@ -6,6 +6,10 @@ html {
   font-size: 1.3em;
 }
 
+/*ems multiplica tamano de fuente del elemento padre*/
+
 .rems li {
   font-size: 1.3rem;
 }
+
+/*rems multiplica tamano de fuente de la raiz padre*/

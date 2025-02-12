@@ -13,10 +13,16 @@
   width: 200px;
 }
 
+/*px no cambia tamano*/
+
 .vw {
   width: 10vw;
 }
 
+/*vw se adapta al ancho de la pantalla*/
+
 .em {
   width: 10em;
 }
+
+/*em aumenta en proporcion, con relacion a los elementos padres*/
