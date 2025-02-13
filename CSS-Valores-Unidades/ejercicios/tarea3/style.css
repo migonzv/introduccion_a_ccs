@@ -1,0 +1,8 @@
+.box {
+  background-image: url(https://mdn.github.io/shared-assets/images/examples/purple-star.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 20%;
+  width: auto;
+  padding: 100px;
+}

@@ -2,11 +2,11 @@ html {
   font-size: 16px;
 }
 
+/*Tamano de elemento fuente del elemento padre*/
+
 .ems li {
   font-size: 1.3em;
 }
-
-/*Tamano de elemento fuente del elemento padre*/
 
 /*ems multiplica tamano de fuente del elemento padre*/
 
