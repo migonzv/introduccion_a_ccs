@@ -7,15 +7,7 @@
 }
 
 .box::after {
-<<<<<<< HEAD
   content: "This is a string. I know because it is quoted in the CSS.";
 }
 
 /*cedepen.io*/
-=======
-  /*Pseudoclases: after y before*/
-  content: "This is a string. I know because it is quoted in the CSS.";
-}
-
-/*Maquina virtual: es la emulacion de un sistema operativo con otro sistema operativo*/
->>>>>>> 9ae59e5bf8b7c1f5ff496a25e9f980ccbd6f9af4

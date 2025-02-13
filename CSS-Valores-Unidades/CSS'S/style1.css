@@ -24,28 +24,5 @@
 .em {
   width: 10em;
 }
-<<<<<<< HEAD
 
 /*em aumenta en proporcion, con relacion a los elementos padres*/
-=======
-/* <div class="wrapper">
-<div class="box px">I am 200px wide</div>
-<div class="box vw">I am 10vw wide</div>
-<div class="box em">I am 10em wide</div>
-</div> */
-
-/*Cuantos pixeles tiene una pantalla?
-Bh altura */
-
-/*MARGIN*/
-/*El em: aumenta proporcionalemtne el tamano de los elementos
-*/
-/*margin: 1em; Aplica a todos los cuatro lados */
-/* margin: 5% auto; Vertical | Horizontal */
-/*margin: 1em auto 2em; Arriba | Horizontal | Abajo */
-/*margin: 2px 1em 0 auto; Arriba | Derecha | Abajo | Izquierda */
-/*margin: inherit;
-margin: initial;
-margin: unset; 
-Valores globales */
->>>>>>> 9ae59e5bf8b7c1f5ff496a25e9f980ccbd6f9af4

@@ -4,16 +4,14 @@ html {
 
 .ems li {
   font-size: 1.3em;
-}/*Tamano de elemento fuente del elemento padre*/
+}
+
+/*Tamano de elemento fuente del elemento padre*/
 
 /*ems multiplica tamano de fuente del elemento padre*/
 
 .rems li {
   font-size: 1.3rem;
-<<<<<<< HEAD
 }
 
 /*rems multiplica tamano de fuente de la raiz padre*/
-=======
-}/*Tamano del elemento fuente del elemento raiz*/
->>>>>>> 9ae59e5bf8b7c1f5ff496a25e9f980ccbd6f9af4

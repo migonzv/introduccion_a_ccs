@@ -1,10 +1,6 @@
 .wrapper {
   background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/96/Barbados_beach.jpg);
-<<<<<<< HEAD
   background-repeat: no-repeat;
-=======
-background-repeat: no-repeat;
->>>>>>> 9ae59e5bf8b7c1f5ff496a25e9f980ccbd6f9af4
   background-position: bottom left;
   padding: 20px;
 }
@@ -14,16 +10,6 @@ background-repeat: no-repeat;
   width: 200px;
   background-color: lightblue;
   border: 5px solid darkblue;
-<<<<<<< HEAD
   padding: 10px;
   opacity: 0.6;
-=======
-  /* 
-  border-with: 5px
-  border-style: solid
-  border-color: darkblue 
-  */
-  padding: 10px;
-  opacity: 0.6; /* Va entre el [0,1] ; no va en comillas*/
->>>>>>> 9ae59e5bf8b7c1f5ff496a25e9f980ccbd6f9af4
 }
