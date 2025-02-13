@@ -1,4 +1,5 @@
 .box {
+<<<<<<< HEAD
   height: 150px;
   width: 300px;
   margin: 20px auto;
@@ -17,11 +18,18 @@
 }
 
 .box {
+=======
+>>>>>>> 9ae59e5bf8b7c1f5ff496a25e9f980ccbd6f9af4
   height: 100px;
   width: 400px;
   background-image: url(https://mdn.github.io/shared-assets/images/examples/big-star.png);
   background-repeat: no-repeat;
   background-position: right 40px;
+<<<<<<< HEAD
+=======
+  /*Pueden ser en px o en (Top-center-bottom)
+  si pongo: 10px-90px la estrella va a estar casi fuera y un poquito hacia abajo*/
+>>>>>>> 9ae59e5bf8b7c1f5ff496a25e9f980ccbd6f9af4
   margin: 20px auto;
   border-radius: 0.5em;
   border: 5px solid rebeccapurple;
